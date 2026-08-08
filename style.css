@@ -1,0 +1,51 @@
+body {
+    background-image: url(railway.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 96vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: #FFFFFF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #FFFFFF;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 22px;
+    padding: 8px;
+    width: 300px;
+    max-width: 240px;
+    background-color: #800000;
+    color: #FFFFFF;
+    border: 1px solid #5a0000;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#save-btn {
+    background-color: rgb(57, 131, 42);
+}
+
+p {
+    font-size: 22px;
+    color: #FFFFFF;
+    /* margin-bottom: 10px; */
+}
