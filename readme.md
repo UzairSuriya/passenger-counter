@@ -3,7 +3,7 @@
 A lightweight web application designed to track and log passenger counts in real time.
 
 ## 🚀 Live Demo
-[View Live Project](https://UzairSuriya.github.io/passenger-counter/)
+[View Live Project](https://UzairSuriya.github.io/passenger-counter)
 
 ## ✨ Features
 * **Increment Counter:** Real-time count tracking with button interaction.
